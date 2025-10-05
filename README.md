@@ -126,9 +126,9 @@ If you want to restore the original BlueJ theme:
 ---
 ## Credits and References
 
-Inspired by [bluej-dark-themes](https://github.com/realspal/bluej-dark-themes)
-https://developer.apple.com/design/human-interface-guidelines/dark-mode
-https://developer.apple.com/design/human-interface-guidelines/color
+- Inspired by [bluej-dark-themes](https://github.com/realspal/bluej-dark-themes)
+- https://developer.apple.com/design/human-interface-guidelines/dark-mode
+- https://developer.apple.com/design/human-interface-guidelines/color
 
 ## Contributing
 
