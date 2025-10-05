@@ -124,9 +124,11 @@ If you want to restore the original BlueJ theme:
 - Ensure file permissions are correct (especially on Linux/macOS)
 
 ---
-## Credits
+## Credits and References
 
 Inspired by [bluej-dark-themes](https://github.com/realspal/bluej-dark-themes)
+https://developer.apple.com/design/human-interface-guidelines/dark-mode
+https://developer.apple.com/design/human-interface-guidelines/color
 
 ## Contributing
 
